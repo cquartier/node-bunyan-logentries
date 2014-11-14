@@ -20,6 +20,6 @@
     "url": "https://github.com/nemtsov/node-bunyan-logentries/issues"
   },
   "dependencies": {
-    "node-logentries": "cquartier/node-logentries"
+    "node-logentries": "cquartier/node-logentries#printLogLevelOption"
   }
 }
